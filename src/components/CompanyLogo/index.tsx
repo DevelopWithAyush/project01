@@ -4,7 +4,8 @@ import CardSection from "./CardSection";
 
 const CompanyLogo = () => {
   return (
-    <div className="container relative flex-col flex items-center justify-start mx-auto max-w-[88rem] w-full ">
+      <div className="container relative flex-col flex items-center justify-start mx-auto max-w-[88rem] w-full ">
+          
       <p className="text-[#7A7A7A]">
         {" "}
         Lorem ipsum dolor sit amet consectetur.{" "}

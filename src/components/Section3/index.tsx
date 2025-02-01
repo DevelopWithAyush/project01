@@ -2,7 +2,7 @@ import React from "react";
 
 const Section3 = () => {
   return (
-    <div className="flex flex-col items-center justify-start w-full h-screen  relative ">
+    <div className="flex flex-col items-center justify-start w-full   relative ">
       <div
         className="absolute top-0 left-0 w-full h-[1754px]"
         style={{

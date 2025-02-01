@@ -6,7 +6,7 @@ const Header = () => {
       <div className="w-[44px] h-[44px] aspect-square bg-white rounded-xl"></div>
       <button
         className="
- text-[14px] text-black bg-white font-dm-sans-regular_400 leading-normal px-[15px] py-[10px] rounded-[10px]"
+ text-[14px] capitalize text-black bg-white font-dm-sans-regular_400 leading-normal px-[15px] py-[10px] rounded-[10px]"
       >
         Get it now
       </button>
