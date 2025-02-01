@@ -18,4 +18,98 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: DMSans-Thin;
+  src: local("DMSans-Thin"), url("/fonts/DM/DMSans-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-ThinItalic;
+  src: local("DMSans-ThinItalic"),
+    url("/fonts/DM/DMSans-ThinItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-Light;
+  src: local("DMSans-Light"),
+    url("/fonts/DM/DMSans-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-LightItalic;
+  src: local("DMSans-LightItalic") url("/fonts/DM/DMSans-LightItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-Regular;
+  src: local("DMSans-Regular") url("/fonts/DM/DMSans-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-Italic;
+  src: local("DMSans-Italic") url("/fonts/DM/DMSans-Italic.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: DMSans-Medium;
+  src: local("DMSans-Medium") url("/fonts/DM/DMSans-Medium.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: DMSans-MediumItalic;
+  src: local("DMSans-MediumItalic") url("/fonts/DM/DMSans-MediumItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-SemiBold;
+  src: local("DMSans-SemiBold") url("/fonts/DM/DMSans-SemiBold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-SemiBoldItalic;
+  src: local("DMSans-SemiBoldItalic") url("/fonts/DM/DMSans-SemiBoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-Bold;
+  src: local("DMSans-Bold") url("/fonts/DM/DMSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-BoldItalic;
+  src: local("DMSans-BoldItalic") url("/fonts/DM/DMSans-BoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-ExtraBold;
+  src: local("DMSans-ExtraBold") url("/fonts/DM/DMSans-ExtraBold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-ExtraBoldItalic;
+  src: local("DMSans-ExtraBoldItalic")
+    url("/fonts/DM/DMSans-ExtraBoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-Black;
+  src: local("DMSans-Black") url("/fonts/DM/DMSans-Black.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: DMSans-BlackItalic;
+  src: local("DMSans-BlackItalic") url("/fonts/DM/DMSans-BlackItalic.ttf")
+    format("truetype");
 }
